@@ -1,0 +1,18 @@
+{
+    "employee":{
+        "empName" :"uma chaitanya",
+        "employeeId" :"2358971",
+        "role":"Software Engineer",
+        "team":"Deposits"
+    },
+    "student":{
+        "stuName":"yash",
+        "rollnumber":"14A91A0451",
+        "BirthDate":"12-12-1997",
+        "Department":"Computer Science"
+    },
+    "college":{
+        "clgName":"IIT",
+        "city" :"Delhi"
+    }
+}
